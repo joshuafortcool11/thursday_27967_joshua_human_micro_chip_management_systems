@@ -155,7 +155,10 @@ Healthcare facilities face several challenges:
 
 - **Phase III: Logical Design ✔️**  
   Seven-table ER diagram normalized to 3NF with audit and holiday entities for security compliance.
-  <img width="521" height="541" alt="ERD drawio" src="https://github.com/user-attachments/assets/474bac68-a56e-45f4-b017-4d736458bda7" />
+<img width="957" height="482" alt="ERD1" src="https://github.com/user-attachments/assets/d601b2fd-6ef4-4183-9508-7be3b942fe74" />
+<img width="959" height="216" alt="ERD2" src="https://github.com/user-attachments/assets/b275793d-33c9-4a4e-bf93-314e86fdb56a" />
+
+
 
 
 - **Phase IV: Database Creation ✔️**  
