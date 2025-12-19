@@ -139,25 +139,34 @@ Healthcare facilities face several challenges:
   Identified emergency identification crisis and proposed a microchip-based solution with strong BI potential.  
 
 - **Phase II: Business Process Modeling ✔️**  
-  BPMN swimlane diagram illustrating patient arrival, microchip scan, record retrieval, and restricted updates.  
+  BPMN swimlane diagram illustrating patient arrival, microchip scan, record retrieval, and restricted updates.
+   <img width="1537" height="712" alt="Untitled Diagram-Page-1 drawio" src="https://github.com/user-attachments/assets/be86aebf-fdde-4f64-b2ce-4a57fee2fc44" />
 
 - **Phase III: Logical Design ✔️**  
-  Seven-table ER diagram normalized to 3NF with audit and holiday entities for security compliance.  
+  Seven-table ER diagram normalized to 3NF with audit and holiday entities for security compliance.
+  <img width="521" height="541" alt="ERD drawio" src="https://github.com/user-attachments/assets/474bac68-a56e-45f4-b017-4d736458bda7" />
+
 
 - **Phase IV: Database Creation ✔️**  
-  PDB configured with a dedicated EM Express port and user privileges.  
+  PDB configured with a dedicated EM Express port and user privileges.
+  <img width="959" height="489" alt="create_audit_logs" src="https://github.com/user-attachments/assets/2fa9b516-1809-4594-a31f-31c66f66c879" />
+
 
 - **Phase V: Data Insertion and Validation ✔️**  
-  800+ realistic Rwandan records inserted and validated against constraints.  
+  800+ realistic Rwandan records inserted and validated against constraints.
+  <img width="959" height="485" alt="insert_into_mircochip" src="https://github.com/user-attachments/assets/123bc52b-6bf1-4393-aacc-d477ec9d3682" />
+
 
 - **Phase VI: PL/SQL Development ✔️**  
   HMMS_API package with procedures, functions, cursors, and window functions.  
 
 - **Phase VII: Advanced Programming & Auditing ✔️**  
   Compound triggers enforce mandatory weekday and holiday restrictions with full auditing and denied attempt logging.  
+<img width="958" height="484" alt="procedure_implant_microchip" src="https://github.com/user-attachments/assets/ec7a94bb-5ad5-4079-9951-de9934c93b73" />
 
 - **Phase VIII: Final Documentation & Presentation ✔️**  
   Complete GitHub repository, BI dashboards, and a 10-slide presentation.  
+<img width="956" height="488" alt="trigger_create_health_record" src="https://github.com/user-attachments/assets/9eafbc45-c861-47c8-94c9-032cff6549fb" />
 
 ---
 
