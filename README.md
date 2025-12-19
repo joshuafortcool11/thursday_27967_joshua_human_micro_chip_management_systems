@@ -95,22 +95,33 @@ Healthcare facilities face several challenges:
 ### 🛠️ Procedures
 - Register_Patient  
 - Implant_Microchip  
-- Update_Health_Record  
+- Update_Health_Record
+- <img width="959" height="490" alt="procedure_to_regiister_patients" src="https://github.com/user-attachments/assets/343597d1-26cd-4098-9ad3-066fddd367cc" />
+
 
 ### 💡 Functions
 - Get_Emergency_Info (returns cursor)  
-- Is_Update_Allowed  
+- Is_Update_Allowed
+- <img width="958" height="467" alt="function_active_chip" src="https://github.com/user-attachments/assets/9ae7a832-81d8-420d-ba91-c31e582b74a1" />
+
 
 ### 👀 Cursors
-- High-risk patients (severe allergies or chronic conditions)  
+- High-risk patients (severe allergies or chronic conditions)
+- <img width="958" height="479" alt="package_microchops" src="https://github.com/user-attachments/assets/a6e3929e-5c16-4083-96b1-79e2f22c7337" />
+
+- 
 
 ### 📦 Packages
-- **HMMS_API** – modular collection of procedures and functions  
+- **HMMS_API** – modular collection of procedures and functions
+- <img width="959" height="496" alt="package_microchops_body" src="https://github.com/user-attachments/assets/521fee00-0f9f-4823-9fc3-191a7a46ed7e" />
+ 
 
 ### 🚧 Triggers
 - Compound triggers on HEALTH_RECORDS and MICROCHIPS  
 - Block DML on weekdays (Monday–Friday) and public holidays  
-- Log successful changes and denied attempts  
+- Log successful changes and denied attempts
+- <img width="956" height="488" alt="trigger_create_health_record" src="https://github.com/user-attachments/assets/97c28aa9-7182-4f89-a14f-647fec211eb8" />
+
 
 ---
 
