@@ -107,7 +107,7 @@ Healthcare facilities face several challenges:
 
 ### 👀 Cursors
 - High-risk patients (severe allergies or chronic conditions)
-- <img width="958" height="479" alt="package_microchops" src="https://github.com/user-attachments/assets/a6e3929e-5c16-4083-96b1-79e2f22c7337" />
+-
 
 - 
 
